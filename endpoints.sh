@@ -12,7 +12,7 @@ OUTPUT_DIR="/home/kali/Sushant/"
 COMBINED_URLS_FILE="combined_urls.txt"
 
 # GitHub token for github-endpoints
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="YOUR GIT TOKEN"
 
 # Create output directory if it doesn't exist
 mkdir -p "$OUTPUT_DIR"
