@@ -47,7 +47,7 @@ gather_urls() {
 
         # github-endpoints
         echo "Using github-endpoints..."
-        github-endpoints -d $domain -t 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 -e -q | tee -a $domain_urls_file
+        github-endpoints -d $domain -t "YOUR TOKEN" -e -q | tee -a $domain_urls_file
 
         # xnLinkFinder
         echo "Using xnLinkFinder..."
